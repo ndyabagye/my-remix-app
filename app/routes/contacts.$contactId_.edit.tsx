@@ -73,7 +73,6 @@ export default function EditContact() {
         <button onClick={() => navigate(-1)} type="button">
           Cancel
         </button>
-        <button type="button">Cancel</button>
       </p>
     </Form>
   );
